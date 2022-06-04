@@ -2,6 +2,11 @@
   "expo": {
     "name": "my-app",
     "slug": "my-app",
+    "splash": {
+      "image": "./assets/Lighthouse.png",
+      "resizeMode": "cover",
+      "duration": 3000
+    },
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
